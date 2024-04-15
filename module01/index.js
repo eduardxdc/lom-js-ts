@@ -1,8 +1,2 @@
-// for comments we use double slashes
-// comments are ignored by the javascript engine, making it useful for debug testing
-
-/* for block comments,
- we use these signals  */
-
-console.log("testing comments js"); // line executed by javascript
-// console.log("testing comments"); <-- ignored
+// this function will only appear on the console, as it does not have the browser environment window;
+console.log('javascript in html - backend');
